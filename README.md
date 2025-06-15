@@ -39,6 +39,8 @@ Homens são significativamente mais propensos a abandonar o tratamento em Minas 
 A maioria dos casos se concentra em grandes centros urbanos, como Belo Horizonte, Uberlândia e Contagem.
 Reforça-se a necessidade de políticas públicas mais focadas em grupos vulneráveis e regiões críticas.
 Estrutura do Projeto
+
+
 ├── dados/
 │   ├── Sinnan_nacional_tubercu.csv
 │   ├── dados_tuberculose_mg.csv
@@ -50,6 +52,8 @@ Estrutura do Projeto
 │   ├── Etapa1_Dissertação_Tuberculose.pdf
 │   └── Etapa4_Relatorio_Insights.pdf
 └── README.md  ← (este arquivo)
+
+
 Desenvolvido por
 José Lucas Aguilera Cardoso Curso de Análise de Dados – EBAC
 Projeto em parceria com a Semantix
