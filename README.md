@@ -41,17 +41,6 @@ Reforça-se a necessidade de políticas públicas mais focadas em grupos vulner�
 Estrutura do Projeto
 
 
-├── dados/
-│   ├── Sinnan_nacional_tubercu.csv
-│   ├── dados_tuberculose_mg.csv
-├── notebooks/
-│   └── EDA_Tuberculose_Abandono.ipynb
-├── visualizacoes/
-│   └── dashboard_looker_studio.pdf
-├── documentos/
-│   ├── Etapa1_Dissertação_Tuberculose.pdf
-│   └── Etapa4_Relatorio_Insights.pdf
-└── README.md  ← (este arquivo)
 
 
 Desenvolvido por
