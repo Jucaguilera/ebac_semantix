@@ -1,4 +1,5 @@
 Projeto de Análise de Dados – Abandono do Tratamento da Tuberculose no Brasil
+
 Este projeto foi desenvolvido como parte da parceria entre EBAC e a empresa Semantix, com o objetivo de aplicar conceitos de Análise de Dados na resolução de uma problemática real: o abandono do tratamento da tuberculose no Brasil.
 
 Tema do Projeto
