@@ -59,17 +59,6 @@ As etapas de pré-processamento e análise foram realizadas utilizando ferrament
 
 ---
 
-## 📁 Estrutura do Projeto
-
-├── dados/
-│ ├── sinan_tuberculose.csv
-│ └── sesmg_municipios.csv
-├── notebooks/
-│ └── analise_tuberculose.ipynb
-├── visualizacoes/
-│ └── dashboard_lookerstudio.pdf
-├── README.md
-└── requirements.txt
 
 
 ---
