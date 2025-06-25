@@ -45,7 +45,7 @@ As etapas de pré-processamento e análise foram realizadas utilizando ferrament
    - Identificação dos 10 municípios com mais casos de abandono (dados SES-MG)  
 
 3. **Visualização**
-   - Dashboards separados para Brasil e Minas Gerais (Looker Studio)  
+   - Dashboards separados para Brasil e Minas Gerais (Looker Studio) - Link: https://lookerstudio.google.com/reporting/fac51e96-af49-44f9-b929-1a9526174ebc  
    - Gráficos de linha, barras e pizza para explorar os dados  
 
 ---
